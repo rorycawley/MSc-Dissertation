@@ -1,0 +1,2 @@
+# Research on Models for Predictive Maintenance and Customer Churn
+This project compares architectural variants of the WTTE-RNN (Weibull Time-to-Event Recurrent Neural Network) model, using a dataset of Predictive Maintenance measurements for jet engines, and comparing the variants’ prediction effectiveness and training time. Applicability of the Model in comparable domains such as Customer behaviour is also explored.
